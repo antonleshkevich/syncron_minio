@@ -1,0 +1,1 @@
+# syncron_minio
